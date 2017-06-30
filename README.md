@@ -1,3 +1,3 @@
-this is ny first push to github
+this is my first push to github
 # realpythontest
 # real-python-test
